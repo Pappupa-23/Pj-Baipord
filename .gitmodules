@@ -1,0 +1,6 @@
+[submodule "admin"]
+    path = admin
+    url = https://github.com/username/repository.git
+[submodule "pj-baipord"]
+    path = pj-baipord
+    url = https://github.com/Pappupa-23/Pj-Baipord.git
